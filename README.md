@@ -113,22 +113,55 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rahul07-github&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rahul07-github&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul07-github&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahul07-github&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul07-github&theme=vue&hide_border=false&layout=donut&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rahul07-github&theme=vue&hide_border=false" width="49%"/>
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul07-github&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul07-github&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahul07-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rahul07-github&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rahul07-github&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <b>⭐ Star my repos if you find them useful! Let's connect and build something amazing together! 🚀</b><br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rahul07-github&icon=6&color=0" />
+  </a>
+</div>
