@@ -14,7 +14,7 @@
 👯 Looking to collaborate on **Data Science & AI projects**<br>
 🌱 Currently learning **Deep Learning, Computer Vision, RAG, LLM, Ollama, ChatOpenAI**<br>
 📊 Passionate about turning raw data into actionable insights using ML models & interactive dashboards<br>
-💬 Passionate about Data Science, Machine Learning, EDA — and now transitioning into the exciting world of Generative AI!
+💬 Passionate about Data Science, Machine Learning, EDA — and now transitioning into the exciting world of Generative AI<br>
 📫 Reach me at **rahulkumarjha9643@gmail.com** | 📱 +91-8878621206<br>
 🌐 [LinkedIn](https://www.linkedin.com/in/rahuljha8878/) | [GitHub](https://github.com/rahul07-github)<br>
 📍 Bhopal, Madhya Pradesh<br>
