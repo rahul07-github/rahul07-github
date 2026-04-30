@@ -9,12 +9,12 @@
 
 # 💫 About Me:
 🎓 Final Year B.Tech Computer Science Engineering student at SAM Global University, Bhopal (GPA: 7.92/10)<br>
-🔭 Currently working on **Machine Learning, Deep Learning & YOLO**<br>
+🔭 Currently working on **Machine Learning, Deep Learning & YOLO, ChatOpenaAI, Ollama, RAG**<br>
 💼 Completed ML Internship at **Cybrom Technology Pvt. Ltd.** — Built a Multi-Segment Bank Loan Approval System<br>
 👯 Looking to collaborate on **Data Science & AI projects**<br>
-🌱 Currently learning **Deep Learning, Computer Vision, YOLO**<br>
+🌱 Currently learning **Deep Learning, Computer Vision, RAG, LLM, Ollama, ChatOpenAI**<br>
 📊 Passionate about turning raw data into actionable insights using ML models & interactive dashboards<br>
-💬 Ask me about **Data Science, Machine Learning, EDA, Power BI, Python**<br>
+💬 Passionate about Data Science, Machine Learning, EDA — and now transitioning into the exciting world of Generative AI!
 📫 Reach me at **rahulkumarjha9643@gmail.com** | 📱 +91-8878621206<br>
 🌐 [LinkedIn](https://www.linkedin.com/in/rahuljha8878/) | [GitHub](https://github.com/rahul07-github)<br>
 📍 Bhopal, Madhya Pradesh<br>
@@ -23,7 +23,10 @@
 ---
 
 # 🧠 Summary:
-> Final-year B.Tech Computer Science student with hands-on internship experience in **Machine Learning** and **Exploratory Data Analysis (EDA)**. Proficient in Python, SQL, Data Analysis, Deep Learning, Computer Vision, and Power BI for building predictive models and creating interactive dashboards. Passionate about leveraging data-driven insights to solve real-world problems.
+> Final-year B.Tech Computer Science student with hands-on internship experience in Machine Learning and Exploratory Data Analysis (EDA). Proficient in Python, SQL, Data Analysis, Deep       Learning, Computer Vision, and Power BI for building predictive models and creating interactive dashboards. 
+> Currently expanding my skills in LLMs, RAG, Ollama, LangChain, and Generative AI. Passionate about leveraging data-driven insights to solve real-world problems.
+
+
 
 ---
 
@@ -59,7 +62,21 @@
 - Analyzed **IMDb Top 1000 Movies** dataset to identify key film industry trends and patterns
 - Performed end-to-end data cleaning and EDA, deriving **4 actionable insights** from real-world data
 
+### Face Recognition System 
+`A real-time face recognition system built with Python, OpenCV, and Streamlit`
+>Built an end-to-end face recognition pipeline using LBPH algorithm and Haar Cascade Classifier with a Streamlit web app for dataset creation, model
+ training, and live face recognition.
+>Designed an interactive GUI with a multi-tab layout featuring webcam-based face capture, per-person image management, and real-time prediction
+ with confidence score and color-coded bounding boxes.
+
 ---
+### Movie Recommendation System 
+`NLP`  `FastAPI` `Streamlit`
+#### Built a movie recommendation system using TF-IDF, FastAPI, and Streamlit with TMDB integration.
+- Built an end-to-end movie recommendation system using TF-IDF and cosine similarity with FastAPI backend and Streamlit frontend, integrated with
+  TMDB API for real-time movie data.
+- Handled challenges like missing data, inconsistent titles, and API failures by applying data cleaning, text normalization, efficient indexing.
+- Designed a recommendation flow that takes user input, finds similar movies using NLP, returns top results with posters and details in interactive UI
 
 # 💻 Tech Stack:
 
@@ -90,6 +107,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+**🤖 Generative AI & LLMs:**
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3D5A.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%236C3AE8.svg?style=for-the-badge&logo=buffer&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%232C2C2C.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%2310A37F.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+
 **BI & Visualization:**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -110,7 +136,7 @@
 - 🏅 **Introduction to Generative AI** — Google Cloud (Fundamentals of generative models & AI applications)
 - 🏅 **ML Terminology & Process** — AWS Training & Certification
 - 🏅 **Data Science 101** — IBM SkillsBuild (Data science concepts, tools, and analytics)
-
+- 🏅 **Python for Data Science** - Python for Data Science | NPTEL (IIT Madras) | 2026 (73% — especially if i get Elite)
 ---
 
 ## 📊 GitHub Stats
