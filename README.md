@@ -1,193 +1,245 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
-<h3 align="center">Data Scientist | ML Engineer | Final Year B.Tech CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul07-github&label=Profile%20views&color=0e75b6&style=flat" alt="rahul07-github" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Rahul%20Kumar%20Jha&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Fresher%202026&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A371F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+RAG+Pipelines+%26+LLM+Apps+%F0%9F%A4%96;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Open+to+Work+%7C+Fresher+2026+%7C+Bhopal%2C+India+%F0%9F%9A%80;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision+%F0%9F%94%8D" alt="Typing SVG" />
+</a>
 
-# 💫 About Me:
-🎓 Final Year B.Tech Computer Science Engineering student at SAM Global University, Bhopal (GPA: 7.92/10)<br>
-🔭 Currently working on **Machine Learning, Deep Learning & YOLO, ChatOpenaAI, Ollama, RAG**<br>
-💼 Completed ML Internship at **Cybrom Technology Pvt. Ltd.** — Built a Multi-Segment Bank Loan Approval System<br>
-👯 Looking to collaborate on **Data Science & AI projects**<br>
-🌱 Currently learning **Deep Learning, Computer Vision, RAG, LLM, Ollama, ChatOpenAI**<br>
-📊 Passionate about turning raw data into actionable insights using ML models & interactive dashboards<br>
-💬 Passionate about Data Science, Machine Learning, EDA — and now transitioning into the exciting world of Generative AI<br>
-📫 Reach me at **rahulkumarjha9643@gmail.com** | 📱 +91-8878621206<br>
-🌐 [LinkedIn](https://www.linkedin.com/in/rahuljha8878/) | [GitHub](https://github.com/rahul07-github)<br>
-📍 Bhopal, Madhya Pradesh<br>
-⚡ Fun fact: **I find patterns in data like others find shapes in clouds!**
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuljha8878/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul07-github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul07-github.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumarjha9643@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rahul07-github&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/rahul07-github)
+
+</div>
 
 ---
 
-# 🧠 Summary:
-> Final-year B.Tech Computer Science student with hands-on internship experience in Machine Learning and Exploratory Data Analysis (EDA). Proficient in Python, SQL, Data Analysis, Deep       Learning, Computer Vision, and Power BI for building predictive models and creating interactive dashboards. 
-> Currently expanding my skills in LLMs, RAG, Ollama, LangChain, and Generative AI. Passionate about leveraging data-driven insights to solve real-world problems.
+## 🧠 About Me
 
+```python
+class RahulKumarJha:
+    def __init__(self):
+        self.name        = "Rahul Kumar Jha"
+        self.title       = "Data Analyst | ML Engineer | GenAI Builder"
+        self.university  = "SAM Global University, Bhopal  (GPA: 7.92/10)"
+        self.internship  = "ML Intern @ Cybrom Technology (E&ICT IIT Guwahati)"
+        self.portfolio   = "https://rahul07-github.github.io"
+        self.location    = "Bhopal, Madhya Pradesh, India"
+        self.email       = "rahulkumarjha9643@gmail.com"
 
+    def current_stack(self):
+        return [
+            "RAG · LangChain · FAISS · GPT-4o-mini",
+            "FastAPI · Streamlit · Scikit-learn · OpenCV",
+            "Python · Pandas · NumPy · Power BI · SQL"
+        ]
+
+    def fun_fact(self):
+        # I find patterns in data like others find shapes in clouds!
+        return "Always building. Always learning. 🚀"
+```
 
 ---
 
-# 💼 Internship Experience:
+## 💼 Internship Experience
 
-### 🏦 Machine Learning Internship — Cybrom Technology Pvt. Ltd.
-**December 2025 – February 2026 | Guided by Mr. Vikas Sarkar**
+### 🏦 Machine Learning Intern — Cybrom Technology Pvt. Ltd. *(E&ICT, IIT Guwahati)*
+**December 2025 – February 2026 | Mentor: Mr. Vikas Sarkar**
 
 **Project: Multi-Segment Bank Loan Approval System**
-`Python` `Scikit-learn` `Pandas` `Seaborn` `Streamlit` `KMeans` `GitHub`
 
-- 🔹 Built a unified ML pipeline for **5 loan types** (Personal, Home, Education, Vehicle, Gold) using **Classification models** to predict loan approval based on credit score, income, and risk factors
-- 🔹 Applied **Regression models** to predict eligible loan amount and personalized interest rates
-- 🔹 Used **KMeans Clustering** to segment customers into Low, Medium, High, and Fraud risk categories
-- 🔹 Developed an end-to-end **Streamlit web application** integrating all ML models with real-time loan eligibility prediction, automated risk scoring, and EMI calculation
+- 🔹 Built unified ML pipeline for **5 loan types** (Personal, Home, Education, Vehicle, Gold) using Classification models
+- 🔹 Applied Regression models to predict eligible loan amount and personalized interest rates
+- 🔹 Used **KMeans Clustering** to segment customers → Low / Medium / High / Fraud Risk
+- 🔹 Deployed end-to-end **Streamlit app** with real-time eligibility prediction, risk scoring & EMI calculator
 
----
-
-# 🚀 Projects:
-
-### 🕵️ Fake News Detector *(October 2025 – November 2025)*
-`Python` `Scikit-learn` `TF-IDF` `Random Forest` `Seaborn` `Matplotlib` `Streamlit` `GitHub`
-- Built an ML model using **TF-IDF vectorization** and **Random Forest** algorithm achieving **95%+ accuracy**
-- Created interactive analytical dashboards to visualize data trends and prediction outcomes
-
-### 🏏 Cricket Performance Dashboard *(July 2025 – August 2025)*
-`Power BI` `Power Query` `DAX` `GitHub`
-- Built an interactive **Power BI dashboard** tracking cricketers' careers across ODI, T20, and Test formats
-- Visualized key stats: **Total Runs (24K)**, **Centuries (70)**, **Half-Centuries (122)**, **Highest Score (254)**
-
-### 🎬 IMDb Movie Dataset Analysis *(October 2025 – November 2025)*
-`Python` `Pandas` `Seaborn` `Jupyter Notebook` `GitHub`
-- Analyzed **IMDb Top 1000 Movies** dataset to identify key film industry trends and patterns
-- Performed end-to-end data cleaning and EDA, deriving **4 actionable insights** from real-world data
-
-### Face Recognition System 
-`A real-time face recognition system built with Python, OpenCV, and Streamlit`
->Built an end-to-end face recognition pipeline using LBPH algorithm and Haar Cascade Classifier with a Streamlit web app for dataset creation, model
- training, and live face recognition.
->Designed an interactive GUI with a multi-tab layout featuring webcam-based face capture, per-person image management, and real-time prediction
- with confidence score and color-coded bounding boxes.
-
----
-### Movie Recommendation System 
-`NLP`  `FastAPI` `Streamlit`
-#### Built a movie recommendation system using TF-IDF, FastAPI, and Streamlit with TMDB integration.
-- Built an end-to-end movie recommendation system using TF-IDF and cosine similarity with FastAPI backend and Streamlit frontend, integrated with
-  TMDB API for real-time movie data.
-- Handled challenges like missing data, inconsistent titles, and API failures by applying data cleaning, text normalization, efficient indexing.
-- Designed a recommendation flow that takes user input, finds similar movies using NLP, returns top results with posters and details in interactive UI
-
-# 💻 Tech Stack:
-
-**Cloud Platforms:**
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Languages & Tools:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-**Data Science & ML Libraries:**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-**🤖 Generative AI & LLMs:**
-
-![LangChain](https://img.shields.io/badge/LangChain-%231C3D5A.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%236C3AE8.svg?style=for-the-badge&logo=buffer&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%232C2C2C.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-%2310A37F.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**BI & Visualization:**
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+`Python` `Scikit-learn` `Pandas` `KMeans` `Streamlit` `GitHub`
 
 ---
 
-# 🎓 Education:
+## 🚀 Featured Projects
 
-| Degree | Institution | Duration | GPA |
-|--------|-------------|----------|-----|
-| B.Tech - Computer Science Engineering | SAM Global University, Bhopal | Dec 2022 – Present | 7.92/10 |
-| Data Science Course | Cybrom Technology Pvt. Ltd. (E&ICT IIT Guwahati) | Jan 2025 – Sep 2025 | — |
+| # | Project | Tech | Highlight |
+|---|---------|------|-----------|
+| 🤖 | **RAG-Based PDF Chatbot** | LangChain · FAISS · GPT-4o-mini · OpenAI | Semantic document Q&A with RAG pipeline |
+| 🎬 | **CineMatch — Movie Recommender** | TF-IDF · FastAPI · Streamlit · TMDB | 7 REST endpoints + async TMDB integration |
+| 🏦 | **Bank Loan Approval System** | KMeans · Scikit-learn · Streamlit | 5-loan-type ML pipeline with risk segmentation |
+| 🕵️ | **Fake News Detector** | TF-IDF · Random Forest · Streamlit | **95%+ accuracy** on real-world news data |
+| 👤 | **Face Recognition System** | OpenCV · LBPH · Haar Cascade | Real-time prediction with confidence scores |
+| 🏏 | **Cricket Performance Dashboard** | Power BI · DAX · Power Query | 24K+ runs · 70 centuries visualized |
+
+### 🤖 RAG-Based PDF Chatbot *(GenAI · LangChain · FAISS · GPT-4o-mini)*
+- Built intelligent document Q&A using **Retrieval-Augmented Generation (RAG)** pipeline
+- Integrated **FAISS** vector store with **OpenAI embeddings** for semantic similarity search
+- Powered by **GPT-4o-mini** for accurate, context-aware responses from uploaded PDFs
+- Multi-page document chunking with overlap-aware retrieval
+
+[![View Code](https://img.shields.io/badge/View_Code-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul07-github)
 
 ---
 
-# 📜 Certifications:
+### 🎬 CineMatch — Movie Recommendation System *(NLP · FastAPI · Streamlit)*
+- Built end-to-end recommendation engine using **TF-IDF vectorization + Cosine Similarity**
+- **FastAPI** backend with 7 REST endpoints + async TMDB API integration
+- Sparse matrix optimization for faster recommendations at scale
+- Dark cinema-themed Streamlit frontend with live posters and movie details
 
-- 🏅 **Introduction to Generative AI** — Google Cloud (Fundamentals of generative models & AI applications)
-- 🏅 **ML Terminology & Process** — AWS Training & Certification
-- 🏅 **Data Science 101** — IBM SkillsBuild (Data science concepts, tools, and analytics)
-- 🏅 **Python for Data Science** - Python for Data Science | NPTEL (IIT Madras) | 2026 (73% — especially if i get Elite)
+[![View Code](https://img.shields.io/badge/View_Code-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul07-github)
+
+---
+
+### 🏦 Bank Loan Approval System *(ML · KMeans · Streamlit)*
+- Unified ML pipeline covering **5 loan types** with Classification + Regression models
+- **KMeans Clustering** for customer risk segmentation: Low / Medium / High / Fraud
+- Real-time EMI calculator with instant eligibility prediction
+
+[![View Code](https://img.shields.io/badge/View_Code-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul07-github)
+
+---
+
+### 🕵️ Fake News Detector *(NLP · TF-IDF · Random Forest)*
+- ML classifier using **TF-IDF vectorization** + **Random Forest** — **95%+ accuracy**
+- Interactive analytical dashboards with Seaborn & Matplotlib visualizations
+
+[![View Code](https://img.shields.io/badge/View_Code-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul07-github)
+
+---
+
+### 👤 Face Recognition System *(OpenCV · LBPH · Streamlit)*
+- Real-time face recognition using **LBPH algorithm** + Haar Cascade Classifier
+- Multi-tab Streamlit GUI: webcam capture, model training, live face recognition
+- Color-coded bounding boxes with confidence scores, labels.json synchronization
+
+[![View Code](https://img.shields.io/badge/View_Code-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul07-github)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6C3AE8?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-2C2C2C?style=for-the-badge&logo=ollama&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-6C3AE8?style=for-the-badge&logo=buffer&logoColor=white)
+
+### 🐍 Languages & Core Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 Deployment & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### ☁️ Cloud & BI
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+## 🎓 Education
+
+| 🎓 Degree | 🏛️ Institution | 📅 Duration | 📊 Score |
+|-----------|----------------|-------------|----------|
+| B.Tech — Computer Science Engineering | SAM Global University, Bhopal | Dec 2022 – Present | **7.92 / 10** |
+| Data Science Certification Course | Cybrom Technology (E&ICT, IIT Guwahati) | Jan 2025 – Sep 2025 | Completed |
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certificate | 🏛️ Issuer | 📅 Year | 🎯 Score |
+|----------------|-----------|---------|---------|
+| **NPTEL Elite — Python for Data Science** | IIT Madras (SWAYAM) | Jan–Feb 2026 | **73% — Elite Badge** |
+| **AWS Educate — Introduction to Generative AI** | Amazon Web Services | 2026 | Trained — Verified |
+| **Introduction to Generative AI** | Google Cloud | 2025 | Completed |
+| **Data Science 101** | IBM SkillsBuild | 2025 | Completed |
+| **ML Terminology & Process** | AWS Training & Certification | 2025 | Completed |
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahul07-github&theme=vue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul07-github&theme=vue&hide_border=false&layout=donut&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahul07-github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Rahul%27s+GitHub+Stats" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul07-github&theme=tokyonight&hide_border=true&layout=donut&langs_count=6&custom_title=Top+Languages" height="175"/>
 
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rahul07-github&theme=vue&hide_border=false" width="49%"/>
-</div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul07-github&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul07-github&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
+  <img src="https://streak-stats.demolab.com?user=rahul07-github&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="52%"/>
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="70%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul07-github&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="96%"/>
 </div>
 
-### 🔝 Top Contributed Repos
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rahul07-github&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul07-github&theme=tokyo-night&bg_color=1a1b27&color=a371f7&line=6e40c9&point=a371f7&hide_border=true&area=true&area_color=6e40c9" width="96%"/>
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="68%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+**📍 Bhopal, India &nbsp;|&nbsp; 📧 rahulkumarjha9643@gmail.com &nbsp;|&nbsp; 📱 +91-8878621206**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuljha8878/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul07-github.github.io)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumarjha9643@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:6e40c9,100:0d1117&height=120&section=footer"/>
 </div>
 
 <div align="center">
-  <b>⭐ Star my repos if you find them useful! Let's connect and build something amazing together! 🚀</b><br/><br/>
+  <b>⭐ Star my repos if you find them useful! Let's build something amazing together! 🚀</b>
+  <br/><br/>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rahul07-github&icon=6&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=rahul07-github&icon=6&color=9"/>
   </a>
 </div>
