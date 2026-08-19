@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=200&section=header&text=Rahul%20Kumar%20Jha&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Fresher%202026&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A371F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+RAG+Pipelines+%26+LLM+Apps+%F0%9F%A4%96;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Open+to+Work+%7C+Fresher+2026+%7C+Bhopal%2C+India+%F0%9F%9A%80;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A371F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+RAG+Pipelines+%26+LLM+Apps+%F0%9F%A4%96;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A;Open+to+Work+%7C+Fresher+2026+%7C+Gurugram%2C+India+%F0%9F%9A%80;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br/>
