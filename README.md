@@ -28,7 +28,7 @@ class RahulKumarJha:
         self.university  = "SAM Global University, Bhopal  (GPA: 7.92/10)"
         self.internship  = "ML Intern @ Cybrom Technology (E&ICT IIT Guwahati)"
         self.portfolio   = "https://rahul07-github.github.io"
-        self.location    = "Bhopal, Madhya Pradesh, India"
+        self.location    = "Gurugram, Haryana, India"
         self.email       = "rahulkumarjha9643@gmail.com"
 
     def current_stack(self):
@@ -222,7 +222,7 @@ class RahulKumarJha:
 
 <div align="center">
 
-**📍 Bhopal, India &nbsp;|&nbsp; 📧 rahulkumarjha9643@gmail.com &nbsp;|&nbsp; 📱 +91-8878621206**
+**📍 Gurugram, India &nbsp;|&nbsp; 📧 rahulkumarjha9643@gmail.com &nbsp;|&nbsp; 📱 +91-8878621206**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuljha8878/)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul07-github.github.io)
